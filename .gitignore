@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 conversation.txt
 api_test.py
+.env
